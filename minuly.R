@@ -1,4 +1,4 @@
-install.packages("palmerpenguins")
+
 library(palmerpenguins)
 data <- penguins
 data <- na.omit(data)
